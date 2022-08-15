@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first exercise of the Odin Project, I will be creating the basic recipes website and during the process of going over the recipes I will be demonstrating the basic of HTML and creating a website.
